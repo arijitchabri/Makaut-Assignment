@@ -28,6 +28,11 @@
 17. Write a C program to find whether a number is prime or not.
 18. Write a C program to print the reverse of a number.
 19. Write a C program to add the digits of a number.
-20. Write a C program to print the fibonacci series in a given range.
+20. Write a C program to print the Fibonacci series in a given range.
 21. Write a C program to check whether a number is an Armstrong number or not.
 22. Write a C program to find GCD and LCM of two numbers.
+
+## Date : 09/11/2022
+
+23. Write a C program to print a triangle pattern.
+24. Write a C program to print the reverse triangle pattern.
