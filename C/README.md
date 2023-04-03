@@ -49,4 +49,7 @@
 29. Write a C program to enter and display employee details using struct pointers.
 30. Write a C program to compare te size of Union and Structure.
 
+## Date : 12/12/2022
 
+31. Write a C program to reverse a string.
+32. Write a C program to perform Stack operations.
