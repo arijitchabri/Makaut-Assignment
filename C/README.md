@@ -42,3 +42,11 @@
 25. Write a C program to calulate sum of two matrix.
 26. Write a C program to calculate product of two matrix.
 27. Write a C program to reverse the elements of an array.
+
+## Date : 05/12/2022
+
+28. Write a C program to declare a struct array of 10 employees.
+29. Write a C program to enter and display employee details using struct pointers.
+30. Write a C program to compare te size of Union and Structure.
+
+
