@@ -36,3 +36,9 @@
 
 23. Write a C program to print a triangle pattern.
 24. Write a C program to print the reverse triangle pattern.
+
+## Date : 30/11/2022
+
+25. Write a C program to calulate sum of two matrix.
+26. Write a C program to calculate product of two matrix.
+27. Write a C program to reverse the elements of an array.
