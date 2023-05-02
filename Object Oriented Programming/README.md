@@ -31,3 +31,37 @@ i. Each class should have their own constructor definition and be placed in the 
 
 Implement the above classes and subclasses using the concepts of inheritance, interface, package and
 abstract methods in JAVA.
+
+
+## PCA 2
+
+Implement the following program in JAVA and upload one pdf file containing the source code,
+output screenshot and discussion related to improvements.
+
+ Java program:
+ Create a class called "Book" that contains the following
+ private fields: 'title' (String), 'author' (String), and 'year' (int),
+ and a public method called 'getBookInfo'
+ that returns a formatted string with the book's information
+ (e.g. "Title: Harry Potter and the Sorcerer's Stone, Author: J.K. Rowling, Year: 1997").
+
+ Next, create a subclass called "Ebook"
+ that extends the "Book" class, with the additional private field of 'fileSize' (int),
+ and a public method called 'getFilesize' that returns the file size of the ebook in MB.
+
+ Finally, create a main method that instantiates both a "Book" object and an "Ebook" object,
+ sets their respective fields, and calls their 'getBookInfo' and 'getFilesize' methods.
+
+ Improvement 1:
+ Implement an interface called "Readable"
+ that has a public method called 'isReadable'
+ that returns a boolean value based on whether the book or ebook is readable
+ (e.g. if it is an ebook, then the file size must be less than the available storage space
+ and for books printed copy must be available to buy).
+ Have the "Book" and "Ebook" classes implement this interface and modify the main method
+ to test the functionality.
+
+ Improvement 2:
+ Can you think of implementing catalogue functionality for books and ebooks data available?
+ Catalogue will contain all the book and ebook data available and provide search functionality.
+ Discuss your approach and implement code if possible.
