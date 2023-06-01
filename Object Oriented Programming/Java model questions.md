@@ -119,16 +119,25 @@
 19. What is the purpose of the getMessage() method in Java?
 20. What is the purpose of the getCause() method in Java?
 
+## Java Multithreading
 
-
-
-
-
-
-
-
-
-
-
-
-
+1. What is multithreading in Java?
+2. What is the purpose of multithreading?
+3. How does multithreading differ from single-threading?
+4. What is a thread in Java?
+5. How do you create a thread in Java?
+6. What is the difference between extending the Thread class and implementing the Runnable interface for creating threads?
+7. What is the lifecycle of a thread in Java?
+8. How do you start a thread in Java?
+9. How do you pause or sleep a thread in Java?
+10. What is thread synchronization in Java?
+11. What is the purpose of synchronized blocks and methods in Java?
+12. What are the benefits of using synchronized blocks or methods?
+13. What is the difference between wait() and sleep() methods in Java?
+14. What is thread safety in Java?
+15. How do you handle exceptions in multithreaded programs?
+16. What is the purpose of the join() method in Java?
+17. What is thread pooling in Java?
+18. What are the advantages of using thread pooling?
+19. What is the difference between a thread-safe class and a non-thread-safe class?
+20. How do you handle concurrent access to shared resources in Java?
