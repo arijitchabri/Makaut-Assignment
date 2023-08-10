@@ -17,3 +17,7 @@ refer this menu
 3. Data Base Management ( Branch DBMS ).
 
 4. Operating System ( Branch OS ).
+
+### SEMESTER 3
+
+1. SOFTWARE ENGINEERING ( Branch SE ).
