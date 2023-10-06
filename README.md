@@ -21,3 +21,4 @@ refer this menu
 ### SEMESTER 3
 
 1. SOFTWARE ENGINEERING ( Branch SE ).
+2. Analysis of Algorithms ( Branch Algo ).
