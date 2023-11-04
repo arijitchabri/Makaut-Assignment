@@ -6,19 +6,19 @@ of the subject codes.
 refer this menu
 
 ### SEMESTER 1
-1. Problem solving using C ( Branch C ).
+1. Problem solving using C.
 
 ### SEMESTER 2
 
-1. Object oriented programing using Java ( Branch OOP ).
+1. Object oriented programing using Java.
 
-2. Graphics designing using python ( Branch Graphics ).
+2. Graphics designing using python.
 
-3. Data Base Management ( Branch DBMS ).
+3. Data Base Management.
 
-4. Operating System ( Branch OS ).
+4. Operating System.
 
 ### SEMESTER 3
 
-1. SOFTWARE ENGINEERING ( Branch SE ).
-2. Analysis of Algorithms ( Branch Algo ).
+1. SOFTWARE ENGINEERING.
+2. Analysis of Algorithms.
